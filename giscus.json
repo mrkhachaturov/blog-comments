@@ -1,4 +1,7 @@
 {
-  "origins": ["https://giscus.app"],
-  "originsRegex": ["https://mrk.am:[0-9]+"]
+  "origins": [
+    "https://mrk.am",
+    "https://ru.mrk.am",
+    "https://en.mrk.am/"
+  ]
 }
